@@ -1,0 +1,40 @@
+﻿2026-10-18 19:36:53 Monitoring start. Steam roots=3, Epic roots=0, dryRun=True
+2026-10-18 19:37:02 DRY RUN: would activate 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+2026-10-18 19:37:02 GAME : wallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), winrtutil64.exe (Steam library), webwallpaper64.exe (Steam library)
+2026-10-18 22:00:23 Monitoring start. Steam roots=3, Epic roots=0, dryRun=True
+2026-10-18 22:00:31 DRY RUN: would activate 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+2026-10-18 22:00:31 GAME : wallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), webwallpaper64.exe (Steam library), winrtutil64.exe (Steam library), webwallpaper64.exe (Steam library)
+2026-10-18 22:29:32 Monitoring start. Steam roots=3, Epic roots=0, dryRun=True
+2026-10-18 22:29:32 SAVE : No game detected
+2026-10-18 22:30:45 ERROR: 잘못된 배열이 전달되었습니다. ','가 필요합니다. (190): {
+  "processNames": [
+    "VALORANT-Win64-Shipping.exe",
+    "Overwatch.exe",
+    "League of Legends.exe",
+    "Minecraft.Windows.exe",
+    "cs2.exe",
+    "r5apex.exe",
+    "javaw.exe"
+    "FortniteClient-Win64-Shipping.exe"
+  ],
+  "paths": []
+}
+
+2026-10-18 22:31:01 DRY RUN: would activate 09b9ce0c-d3cd-494b-9ced-e1f5e5d3880b
+2026-10-18 22:31:01 GAME : javaw.exe (process)
+2026-10-18 22:31:56 Monitoring start. Steam roots=3, Epic roots=0, dryRun=False
+2026-10-18 22:32:05 Activated power scheme 09b9ce0c-d3cd-494b-9ced-e1f5e5d3880b
+2026-10-18 22:32:05 GAME : javaw.exe (process)
+2026-10-18 22:36:57 Monitoring start. Steam roots=3, Epic roots=0, dryRun=False
+2026-10-18 22:37:06 Activated power scheme 09b9ce0c-d3cd-494b-9ced-e1f5e5d3880b
+2026-10-18 22:37:06 GAME : javaw.exe (process)
+2026-10-18 22:37:47 Activated power scheme a1841308-3541-4fab-bc81-f71556f20b4a
+2026-10-18 22:37:47 SAVE : No game detected
+2026-10-18 22:41:03 Activated power scheme 09b9ce0c-d3cd-494b-9ced-e1f5e5d3880b
+2026-10-18 22:41:03 GAME : javaw.exe (process)
+2026-10-18 23:35:35 Activated power scheme a1841308-3541-4fab-bc81-f71556f20b4a
+2026-10-18 23:35:35 SAVE : No game detected
+2026-10-18 23:35:54 Activated power scheme 09b9ce0c-d3cd-494b-9ced-e1f5e5d3880b
+2026-10-18 23:35:54 GAME : Overwatch.exe (process), CrashMailer_64.exe (Steam library)
+2026-10-19 00:16:28 Activated power scheme a1841308-3541-4fab-bc81-f71556f20b4a
+2026-10-19 00:16:28 SAVE : No game detected

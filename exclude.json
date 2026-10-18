@@ -1,0 +1,21 @@
+﻿{
+  "processNames": [
+    "steam.exe",
+    "steamwebhelper.exe",
+    "EpicGamesLauncher.exe",
+    "RiotClientServices.exe",
+    "Battle.net.exe",
+    "Discord.exe",
+    "chrome.exe",
+    "msedge.exe",
+    "Unity.exe",
+    "UnrealEditor.exe",
+    "wallpaper64.exe",
+    "wallpaper32.exe",
+    "webwallpaper64.exe",
+    "winrtutil64.exe"
+  ],
+  "paths": [
+    "*\\steamapps\\common\\Steamworks Shared\\*"
+  ]
+}
